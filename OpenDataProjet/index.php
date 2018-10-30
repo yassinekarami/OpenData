@@ -30,7 +30,7 @@
             </tr>
 
             <tr>
-                <td> <button><a href="Covoit/covoitIndex.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Air de covoiturage</a></button></td>
+                <td> <button><a href="Covoit/covoitIndex.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Aire de covoiturage</a></button></td>
             </tr>
         </table>
     </div>

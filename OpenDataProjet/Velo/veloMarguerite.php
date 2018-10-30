@@ -23,13 +23,13 @@
                 <td> <button><a href="../Tan/tanVelo.php"  class="w3-bar-item w3-button w3-hover-white">Tan</a></button></td>
             </tr>
             <tr>
-                <td> <button  style="background-color: white ; color: black;"><a href="index.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Bicloo</a></button></td>
+                <td> <button  style="background-color: white ; color: black;"><a href="../Marguerite/margueriteIndex.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Bicloo</a></button></td>
             </tr>
             <tr>
                 <td> <button  style="background-color: white ; color: black;"><a href="veloIndex.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Station marguerite</a></button></td>
             </tr>
             <tr>
-                <td> <button><a href="index.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Aire de covoiturage</a></button></td>
+                <td> <button><a href="../Covoit/covoitMargueriteVelo.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Aire de covoiturage</a></button></td>
             </tr>
         </table>
     </div>
@@ -46,7 +46,7 @@
 
     <div class="w3-container" style="margin-top:20px" id="showcase">
 
-        <h1 class="w3-jumbo"><b>Galerie des videos</b></h1>
+        <img src="../image/workInProgress.png" width="450px">
 
     </div>
 

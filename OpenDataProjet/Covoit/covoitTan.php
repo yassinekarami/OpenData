@@ -26,7 +26,7 @@
                 <td> <button ><a href="covoitVelo.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Bicloo</a></button></td>
             </tr>
             <tr>
-                <td> <button><a href="covoitMarguerite.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Station marguerite</a></button></td>
+                <td> <button><a href="covoitTanMarguerite.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Station marguerite</a></button></td>
             </tr>
 
             <tr>

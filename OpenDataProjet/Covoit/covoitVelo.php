@@ -20,13 +20,13 @@
 
         <table>
             <tr>
-                <td> <button><a href="Tan/tanIndex.php"  class="w3-bar-item w3-button w3-hover-white">Tan</a></button></td>
+                    <td> <button><a href="covoitTanVelo.php"  class="w3-bar-item w3-button w3-hover-white">Tan</a></button></td>
             </tr>
             <tr>
                 <td> <button style="background-color: white ; color: black;"><a href="covoitIndex.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Bicloo</a></button></td>
             </tr>
             <tr>
-                <td> <button><a href="covoitMarguerite.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Station marguerite</a></button></td>
+                <td> <button><a href="covoitMargueriteVelo.php  " onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Station marguerite</a></button></td>
             </tr>
 
             <tr>

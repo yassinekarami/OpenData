@@ -26,11 +26,11 @@
                 <td> <button style="background-color: white ; color: black;"><a href="covoitMarguerite.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Bicloo</a></button></td>
             </tr>
             <tr>
-                <td> <button style="background-color: white ; color: black;"><a href="covoitIndex.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Station marguerite</a></button></td>
+                <td> <button style="background-color: white ; color: black;"><a href="covoitVelo.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Station marguerite</a></button></td>
             </tr>
 
             <tr>
-                <td> <button style="background-color: white ; color: black;"><a href="index.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Aire de covoiturage</a></button></td>
+                <td> <button style="background-color: white ; color: black;"><a href="../Velo/veloMarguerite.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Aire de covoiturage</a></button></td>
             </tr>
         </table>
     </div>
