@@ -20,7 +20,7 @@
 
         <table>
             <tr>
-                <td> <button><a href="margueriteTan.php"  class="w3-bar-item w3-button w3-hover-white">Tan</a></button></td>
+                <td> <button><a href="../Covoit/covoitTanMarguerite.php"  class="w3-bar-item w3-button w3-hover-white">Tan</a></button></td>
             </tr>
             <tr>
                 <td> <button><a href="margueriteVelo.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Bicloo</a></button></td>
@@ -49,7 +49,7 @@
 
     <div class="w3-container" style="margin-top:20px" id="showcase">
 
-        <img src="image/vide.png">
+        <img src="../image/margueriteCovoit.png">
 
     </div>
 

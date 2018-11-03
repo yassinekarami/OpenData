@@ -15,12 +15,12 @@
 
 <nav class="w3-sidebar w3-red w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
 
-    <h1>ACCUEIL</h1>
+    <a href="../index.php" ><h1>ACCUEIL</h1></a>
     <div class="w3-bar-block">
 
         <table>
             <tr>
-                <td> <button><a href="../Tan/tanVelo.php"  class="w3-bar-item w3-button w3-hover-white">Tan</a></button></td>
+                <td> <button><a href="../Tan/tanVeloMarguerite.php"  class="w3-bar-item w3-button w3-hover-white">Tan</a></button></td>
             </tr>
             <tr>
                 <td> <button  style="background-color: white ; color: black;"><a href="../Marguerite/margueriteIndex.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Bicloo</a></button></td>
@@ -46,7 +46,7 @@
 
     <div class="w3-container" style="margin-top:20px" id="showcase">
 
-        <img src="../image/workInProgress.png" width="450px">
+        <img src="../image/workInProgress.png" width="600px">
 
     </div>
 

@@ -20,7 +20,7 @@
 
         <table>
             <tr>
-                <td> <button style="background-color: white ; color: black;"><a href="tanIndex.php"  class="w3-bar-item w3-button w3-hover-white">Tan</a></button></td>
+                <td> <button style="background-color: white ; color: black;"><a href="../Velo/veloMarguerite.php"  class="w3-bar-item w3-button w3-hover-white">Tan</a></button></td>
             </tr>
             <tr>
                 <td> <button style="background-color: white ; color: black;"><a href="tanMarguerite.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Bicloo</a></button></td>

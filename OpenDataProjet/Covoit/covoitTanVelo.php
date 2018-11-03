@@ -26,10 +26,10 @@
                 <td> <button style="background-color: white ; color: black;"><a href="covoitTan.php"  class="w3-bar-item w3-button w3-hover-white">Bicloo</a></button></td>
             </tr>
             <tr>
-                <td> <button><a href="Covoit/covoitTanVelo.php"  class="w3-bar-item w3-button w3-hover-white">Station marguerite</a></button></td>
+                <td> <button><a href="../tout.php"  class="w3-bar-item w3-button w3-hover-white">Station marguerite</a></button></td>
             </tr>
             <tr>
-                <td> <button  style="background-color: white ; color: black;"><a href="Tan/tanVeloMarguerite.php" class="w3-bar-item w3-button w3-hover-white">Aire de covoiturage</a></button></td>
+                <td> <button  style="background-color: white ; color: black;"><a href="../Tan/tanVelo.php" class="w3-bar-item w3-button w3-hover-white">Aire de covoiturage</a></button></td>
             </tr>
         </table>
     </div>
